@@ -1,0 +1,20 @@
+.not-found {
+    text-align: center;
+    margin-top: 50px;
+    height: 70vh;
+    justify-content: center;
+}
+  
+.not-found h1 {
+    font-size: 2em;
+    color: #1b8b37; /* Red color for emphasis */
+}
+  
+.not-found p {
+    margin: 20px 0;
+}
+  
+.not-found a {
+    color: #007bff; /* Bootstrap primary color */
+    text-decoration: none;
+}
